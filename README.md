@@ -1,5 +1,3 @@
-#### Fearless coders program
-
 The program is designed to **make the student a self-learner**.
 
 ###### What students say about this program:  
