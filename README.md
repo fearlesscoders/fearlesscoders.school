@@ -31,6 +31,6 @@ The program is designed to **make the student a self-learner**.
 This is for 2nd semister B.Tech students.
 
 ###### Complete program details:
-- Train 42 first year B.Tech students in 2nd semester.
+- Train interested first year B.Tech students in 2nd semester.
 - Conduct two coding competetions.
 - Conduct technical meetups every month in 2nd and 3rd semester period.
